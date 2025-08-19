@@ -1,0 +1,1 @@
+"A simple Python simulation of Conway's Game of Life built with tkinter. Includes pattern presets like "Glider" and "Glider Gun", with interactive GUI to start, clear, and load patterns. The simulation runs on a 100x100 grid, following the standard life rules to evolve cells over time." 
